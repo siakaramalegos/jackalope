@@ -35,14 +35,12 @@ h2 {
   color: #777;
 }
 
-/*.fearsome {
-  color: #806876;
-}*/
+.photo {
+  background-color: #806876;
+}
 
 .photo-box {
-  background-color: #806876;
-  border-radius: 6px;
-  color: white;
+  color: #806876;
   padding: 20px;
   text-align: center;
   float: left;
@@ -53,7 +51,6 @@ h2 {
 
 img {
   max-height: 250px;
-  /*max-width: 90%;*/
 }
 
 .footer {
